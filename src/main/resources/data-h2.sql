@@ -1,0 +1,1 @@
+insert into person(name, birth_date) values('Zenon', '1975-11-19');
